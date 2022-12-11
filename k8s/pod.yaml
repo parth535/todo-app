@@ -12,7 +12,7 @@ spec:
 
   - name: todo-app
 
-    image: parthhandson/django-todo:latest
+    image: parth3676/parthhandson:djangp.latest
 
     ports:
 
